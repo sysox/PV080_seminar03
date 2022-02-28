@@ -1,0 +1,3 @@
+# Encodings and Vernam
+
+In this seminar, we will look into how to translate data between various encodings. Afterwards, we will see how simple a perfect cipher can look. Unfortunately, there is a twist...
